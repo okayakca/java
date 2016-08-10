@@ -20,7 +20,7 @@ public class Workspace {
      */
     public static void main(String[] args) throws InterruptedException, AWTException {
         
-        ImageFunction.capture();
+        ImageFunction.capture("button.jpg");
         
         //mouseFunctions.mouse_whell(500, 500, 600, 400);
         
